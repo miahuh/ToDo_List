@@ -86,3 +86,5 @@ input:focus{
 	color: gray;
 	text-decoration: line-through;
 }
+
+.img:hover { cursor: default; transform: rotate(360deg); transition: all 0.3s ease-in-out 0s; }
